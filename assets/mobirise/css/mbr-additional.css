@@ -1341,11 +1341,19 @@ body {
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
 .cid-qvMtrvFH7u {
-  padding-top: 75px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-qvMtrvFH7u .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qvMP4CtoaY {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-qvMP4CtoaY .mbr-section-subtitle {
   color: #767676;
 }
 .cid-qvMfg5Fmah {
